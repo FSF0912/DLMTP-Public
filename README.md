@@ -24,7 +24,6 @@
 
 --- 
 
-- [安卓权限申请要求](https://github.com/XGames-Studio/DLMTP-Public/blob/main/zh_CN/Android.md)
 
 - [问题反馈须知](https://github.com/XGames-Studio/DLMTP-Public/blob/main/zh_CN/BugReport.md)
 
@@ -43,7 +42,6 @@
 
 ---
 
-- [Android Permission Application Requirements](https://github.com/XGames-Studio/DLMTP-Public/blob/main/en_US/Android.md)
 
 - [Bug Report Guidelines](https://github.com/XGames-Studio/DLMTP-Public/blob/main/en_US/BugReport.md)
 

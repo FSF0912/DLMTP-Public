@@ -5,7 +5,6 @@ Violating the following rules will be considered a violation. The administrator 
 - **Prohibited**: Launch personal attacks on anyone in the group (whether they are administrators or players).
 - **Prohibited**: Insult my painters (such as Xiaoling) and slander their creative works.
 - **Prohibited**: Be a freeloader and leave the group right after joining.
-- **Prohibited**: Leak the game installation package.
 - **Prohibited**: Lend your account to others.
 - **Prohibited**: Engage in any other behaviors that affect the game community and gameplay.
 - **Prohibited**: Disturb any administrator in the group without reason or send private messages to any administrator.
@@ -13,8 +12,8 @@ Violating the following rules will be considered a violation. The administrator 
 - **Prohibited**: Any player is not allowed to redistribute the game. The official release channel of the game is only the game's official website. Any version of DLMTP on other platforms is non-compliant or pirated.
 - **Prohibited**: Ask any questions about the content already stated in other announcements without carefully reading the announcements.
 - **Prohibited**: Lend your game account to others.
-- **Prohibited**: Directly ask questions such as "How to download", "How to register", and "How to verify" in the group.
+- **Prohibited**: Directly ask questions such as "How to download" or "How to register" in the group.
 
 All players are welcome to report the above violations.
 
-> The final interpretation right belongs to Xiaoxi.
+> The final interpretation right belongs to Sushi.
